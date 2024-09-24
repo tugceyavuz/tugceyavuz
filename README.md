@@ -8,8 +8,8 @@
 - 🌱 I love playing and creating games
 
 ### My Linkedin:
-[![website](https://www.linkedin.com/in/tu%C4%9F%C3%A7e-yavuz-5764321a4/)
-&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-yavuz-5764321a4/">H. Tuğçe Yavuz</a>
+
 
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,cs,visualstudio,vscode,notion,cpp,linux,latex,py)](https://skillicons.dev)
