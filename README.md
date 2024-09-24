@@ -6,8 +6,9 @@
 - ⚡ I graduated with a Bachelor of Computer Engineering
 - <p> &#127918 I am working to be a game developer </p> 
 - <p> &#127922 I love playing and creating games</p> 
-### My Linkedin:
-<a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-yavuz-5764321a4/">H. Tuğçe Yavuz</a>
+
+### <a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-yavuz-5764321a4/">My Linkedin</a>
+### <a href="https://htugceyavuz.itch.io/">My Games</a>
 
 
 ### Skills:
