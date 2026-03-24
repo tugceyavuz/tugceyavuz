@@ -8,7 +8,7 @@
 - <p> &#127922 I love playing and creating games</p> 
 
 ### <a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-yavuz-5764321a4/">My Linkedin</a>
-### <a href="https://htugceyavuz.itch.io/">My Games</a>
+### <a href="https://hty-portfolio.my.canva.site/">My Games</a>
 
 
 ### Skills:
